@@ -1,38 +1,337 @@
 {
-  "updated": "2026-03-21",
+  "updated": "2026-03-21 14:39",
   "sections": {
     "Upper Push": [
-      {"exercise": "Push-Ups", "pr": "60 reps", "date": "2026-03-12"},
-      {"exercise": "DB Incline Press (Slingshot)", "pr": "95 x 7", "date": "2026-02-12"},
-      {"exercise": "Weighted Dips (Slingshot)", "pr": "+55 x 10", "date": "2026-03-16"},
-      {"exercise": "Shoulder Machine Press", "pr": "150 x 6", "date": "2026-03-16"},
-      {"exercise": "Rear Delt Flyes", "pr": "50 x 12", "date": "2026-03-05", "note": "cheat"},
-      {"exercise": "Low-to-High Cable Flyes", "pr": "45 x 5", "date": "2026-03-12"},
-      {"exercise": "Straight Bar Incline Bench", "pr": "205 x 5", "date": "2026-03-19"}
+      {
+        "exercise": "Push-Ups",
+        "pr": "60 reps",
+        "date": "2026-03-12"
+      },
+      {
+        "exercise": "DB Incline Press (Slingshot)",
+        "pr": "95 x 7",
+        "date": "2026-02-12"
+      },
+      {
+        "exercise": "Weighted Dips (Slingshot)",
+        "pr": "+55 x 10",
+        "date": "2026-03-16"
+      },
+      {
+        "exercise": "Shoulder Machine Press",
+        "pr": "150 x 6",
+        "date": "2026-03-16"
+      },
+      {
+        "exercise": "Rear Delt Flyes",
+        "pr": "50 x 12",
+        "date": "2026-03-05",
+        "note": "cheat"
+      },
+      {
+        "exercise": "Low-to-High Cable Flyes",
+        "pr": "45 x 5",
+        "date": "2026-03-12"
+      },
+      {
+        "exercise": "Straight Bar Incline Bench",
+        "pr": "205 x 5",
+        "date": "2026-03-19"
+      }
     ],
     "Upper Pull": [
-      {"exercise": "45 Incline DB Curls", "pr": "50 x 7", "date": "2026-03-12"},
-      {"exercise": "Lat Pulldown", "pr": "230 x 7", "date": "2026-03-19"},
-      {"exercise": "Seated Lat Machine", "pr": "250 x 9", "date": "2026-03-16"},
-      {"exercise": "DB Rows", "pr": "100 x 19", "date": "2026-03-16"},
-      {"exercise": "Pike + Chin-Ups", "pr": "16 total, 14 piked", "date": "2026-03-05"},
-      {"exercise": "Wide-Grip Chin-Ups", "pr": "14", "date": "2026-03-20"},
-      {"exercise": "Bar Hang", "pr": "2:00", "date": "2026-01-27", "note": "maintenance, no weekly chase"},
-      {"exercise": "Rear Delt Face Pulls", "pr": "85 x 12", "date": "2026-03-16"}
+      {
+        "exercise": "45\u00b0 Incline DB Curls",
+        "pr": "50 x 7",
+        "date": "2026-03-12"
+      },
+      {
+        "exercise": "Lat Pulldown",
+        "pr": "230 x 7",
+        "date": "2026-03-19"
+      },
+      {
+        "exercise": "Seated Lat Machine",
+        "pr": "250 x 9",
+        "date": "2026-03-16"
+      },
+      {
+        "exercise": "DB Rows",
+        "pr": "100 x 19",
+        "date": "2026-03-16"
+      },
+      {
+        "exercise": "Pike + Chin-Ups",
+        "pr": "16 total, 14 piked",
+        "date": "2026-03-05"
+      },
+      {
+        "exercise": "Wide-Grip Chin-Ups",
+        "pr": "14",
+        "date": "2026-03-20"
+      },
+      {
+        "exercise": "Bar Hang",
+        "pr": "2:00",
+        "date": "2026-01-27",
+        "note": "maintenance protocol now, no weekly PR chase"
+      },
+      {
+        "exercise": "Rear Delt Face Pulls",
+        "pr": "85 x 12",
+        "date": "2026-03-16"
+      }
     ],
     "Lower": [
-      {"exercise": "Hyperextensions", "pr": "70 x 10", "date": "2026-03-02"},
-      {"exercise": "Hex Bar Deadlifts", "pr": "315 x 5", "date": "2026-03-02", "note": "85% protocol"},
-      {"exercise": "Calves (Machine)", "pr": "585 x 14", "date": "2026-03-20"},
-      {"exercise": "Hip Thrust Machine", "pr": "225 x 10", "date": "2026-03-02"},
-      {"exercise": "Zercher Squats", "pr": "225 x 5", "date": "2026-03-12"},
-      {"exercise": "Farmer's Carry", "pr": "100 lb DBs x 150 steps", "date": "2026-03-09"}
+      {
+        "exercise": "Hyperextensions",
+        "pr": "70 x 10",
+        "date": "2026-03-02"
+      },
+      {
+        "exercise": "Hex Bar Deadlifts",
+        "pr": "315 x 5",
+        "date": "2026-03-02",
+        "note": "85% protocol / not failure, but current highest logged number"
+      },
+      {
+        "exercise": "Calves (Machine)",
+        "pr": "585 x 14",
+        "date": "2026-03-20"
+      },
+      {
+        "exercise": "Hip Thrust Machine",
+        "pr": "225 x 10",
+        "date": "2026-03-02"
+      },
+      {
+        "exercise": "Zercher Squats",
+        "pr": "225 x 5",
+        "date": "2026-03-12"
+      },
+      {
+        "exercise": "Farmer's Carry",
+        "pr": "100 lb DBs x 150 steps",
+        "date": "2026-03-09",
+        "note": "Jesse corrected this over 105 x 100"
+      }
     ],
     "Core": [
-      {"exercise": "Plank", "pr": "3:15", "date": "2026-03-02"}
-    ],
-    "Sprint / Baseline": [
-      {"exercise": "Behind-the-Neck Hyperextensions", "pr": "50 x 8", "date": "2026-03-09", "note": "baseline"}
+      {
+        "exercise": "Plank",
+        "pr": "3:15",
+        "date": "2026-03-02"
+      },
+      {
+        "exercise": "Nordic 4x4",
+        "pr": "tracked separately",
+        "date": "note: needs verification"
+      },
+      {
+        "exercise": "Behind-the-Neck Hyperextensions",
+        "pr": "50 x 8",
+        "date": "2026-03-09"
+      },
+      {
+        "exercise": "2026-03-16",
+        "pr": "Seated Lat Machine",
+        "date": "250 x 9"
+      },
+      {
+        "exercise": "2026-03-19",
+        "pr": "Lat Pulldown",
+        "date": "230 x 7"
+      },
+      {
+        "exercise": "2026-03-19",
+        "pr": "Straight Bar Incline Bench",
+        "date": "205 x 5"
+      },
+      {
+        "exercise": "2026-03-20",
+        "pr": "Wide-Grip Chin-Ups",
+        "date": "14"
+      },
+      {
+        "exercise": "2026-03-20",
+        "pr": "Calves (Machine)",
+        "date": "585 x 14"
+      },
+      {
+        "exercise": "2026-03-16",
+        "pr": "DB Rows",
+        "date": "100 x 19"
+      },
+      {
+        "exercise": "2026-03-16",
+        "pr": "Weighted Dips (Slingshot)",
+        "date": "+55 x 10"
+      },
+      {
+        "exercise": "2026-03-16",
+        "pr": "Shoulder Machine Press",
+        "date": "150 x 6"
+      },
+      {
+        "exercise": "2026-03-16",
+        "pr": "Rear Delt Face Pulls",
+        "date": "85 x 12"
+      },
+      {
+        "exercise": "2026-03-16",
+        "pr": "Behind-the-Neck Hyperextensions",
+        "date": "70 x 2"
+      },
+      {
+        "exercise": "2026-03-09",
+        "pr": "Farmer's Carry",
+        "date": "100 lb DBs x 150 steps"
+      },
+      {
+        "exercise": "2026-03-09",
+        "pr": "Behind-the-Neck Hyperextensions",
+        "date": "50 x 8"
+      },
+      {
+        "exercise": "2026-03-09",
+        "pr": "Straight Bar Incline Bench",
+        "date": "205 x 4"
+      },
+      {
+        "exercise": "2026-03-12",
+        "pr": "Push-Ups",
+        "date": "60 reps"
+      },
+      {
+        "exercise": "2026-03-12",
+        "pr": "Lat Pulldown",
+        "date": "230 x 5.5"
+      },
+      {
+        "exercise": "2026-03-12",
+        "pr": "Weighted Dips (Slingshot)",
+        "date": "+35 x 14"
+      },
+      {
+        "exercise": "2026-03-12",
+        "pr": "Seated Lat Machine",
+        "date": "230 x 12"
+      },
+      {
+        "exercise": "2026-03-12",
+        "pr": "Shoulder Machine Press",
+        "date": "150 x 5"
+      },
+      {
+        "exercise": "2026-03-12",
+        "pr": "Rear Delt Face Pulls",
+        "date": "70 x 15"
+      },
+      {
+        "exercise": "2026-03-12",
+        "pr": "DB Rows",
+        "date": "skipped this week"
+      },
+      {
+        "exercise": "2026-03-12",
+        "pr": "Low-to-High Cable Flyes",
+        "date": "45 x 5"
+      },
+      {
+        "exercise": "2026-03-12",
+        "pr": "Zercher Squats",
+        "date": "225 x 5"
+      },
+      {
+        "exercise": "2026-03-12",
+        "pr": "45\u00b0 Incline DB Curls",
+        "date": "50 x 7"
+      },
+      {
+        "exercise": "2026-03-02",
+        "pr": "Hyperextensions",
+        "date": "70 x 10"
+      },
+      {
+        "exercise": "2026-03-02",
+        "pr": "Hex Bar Deadlifts",
+        "date": "315 x 5"
+      },
+      {
+        "exercise": "2026-03-02",
+        "pr": "Calves (Machine)",
+        "date": "545 x 18"
+      },
+      {
+        "exercise": "2026-03-02",
+        "pr": "Farmer's Carry",
+        "date": "105 x 100 steps"
+      },
+      {
+        "exercise": "2026-03-02",
+        "pr": "Hip Thrust Machine",
+        "date": "225 x 10"
+      },
+      {
+        "exercise": "2026-03-02",
+        "pr": "Plank",
+        "date": "3:15"
+      },
+      {
+        "exercise": "2026-03-05",
+        "pr": "Pike + Chin-Ups",
+        "date": "16 total, 14 piked"
+      },
+      {
+        "exercise": "2026-03-05",
+        "pr": "Lat Pulldown",
+        "date": "230 x 4"
+      },
+      {
+        "exercise": "2026-03-05",
+        "pr": "Shoulder Machine Press",
+        "date": "130 x 9"
+      },
+      {
+        "exercise": "2026-03-05",
+        "pr": "Rear Delt Flyes",
+        "date": "50 x 12"
+      },
+      {
+        "exercise": "2026-03-05",
+        "pr": "45\u00b0 Incline DB Curls",
+        "date": "50 x 6"
+      },
+      {
+        "exercise": "2026-03-07",
+        "pr": "Wide-Grip Chin-Ups",
+        "date": "13"
+      },
+      {
+        "exercise": "2026-03-07",
+        "pr": "Rear Delt Face Pulls",
+        "date": "60 x 13"
+      },
+      {
+        "exercise": "2026-03-07",
+        "pr": "Low-to-High Cable Flyes",
+        "date": "40 x 7"
+      },
+      {
+        "exercise": "2026-03-07",
+        "pr": "Seated Lat Machine",
+        "date": "220 x 8"
+      },
+      {
+        "exercise": "2026-03-07",
+        "pr": "Zercher Squats",
+        "date": "195 x 8"
+      },
+      {
+        "exercise": "2026-03-07",
+        "pr": "Straight Bar Incline Bench",
+        "date": "185 x 4"
+      }
     ]
   }
 }
