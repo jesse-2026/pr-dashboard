@@ -1,0 +1,38 @@
+{
+  "updated": "2026-03-21",
+  "sections": {
+    "Upper Push": [
+      {"exercise": "Push-Ups", "pr": "60 reps", "date": "2026-03-12"},
+      {"exercise": "DB Incline Press (Slingshot)", "pr": "95 x 7", "date": "2026-02-12"},
+      {"exercise": "Weighted Dips (Slingshot)", "pr": "+55 x 10", "date": "2026-03-16"},
+      {"exercise": "Shoulder Machine Press", "pr": "150 x 6", "date": "2026-03-16"},
+      {"exercise": "Rear Delt Flyes", "pr": "50 x 12", "date": "2026-03-05", "note": "cheat"},
+      {"exercise": "Low-to-High Cable Flyes", "pr": "45 x 5", "date": "2026-03-12"},
+      {"exercise": "Straight Bar Incline Bench", "pr": "205 x 5", "date": "2026-03-19"}
+    ],
+    "Upper Pull": [
+      {"exercise": "45 Incline DB Curls", "pr": "50 x 7", "date": "2026-03-12"},
+      {"exercise": "Lat Pulldown", "pr": "230 x 7", "date": "2026-03-19"},
+      {"exercise": "Seated Lat Machine", "pr": "250 x 9", "date": "2026-03-16"},
+      {"exercise": "DB Rows", "pr": "100 x 19", "date": "2026-03-16"},
+      {"exercise": "Pike + Chin-Ups", "pr": "16 total, 14 piked", "date": "2026-03-05"},
+      {"exercise": "Wide-Grip Chin-Ups", "pr": "14", "date": "2026-03-20"},
+      {"exercise": "Bar Hang", "pr": "2:00", "date": "2026-01-27", "note": "maintenance, no weekly chase"},
+      {"exercise": "Rear Delt Face Pulls", "pr": "85 x 12", "date": "2026-03-16"}
+    ],
+    "Lower": [
+      {"exercise": "Hyperextensions", "pr": "70 x 10", "date": "2026-03-02"},
+      {"exercise": "Hex Bar Deadlifts", "pr": "315 x 5", "date": "2026-03-02", "note": "85% protocol"},
+      {"exercise": "Calves (Machine)", "pr": "585 x 14", "date": "2026-03-20"},
+      {"exercise": "Hip Thrust Machine", "pr": "225 x 10", "date": "2026-03-02"},
+      {"exercise": "Zercher Squats", "pr": "225 x 5", "date": "2026-03-12"},
+      {"exercise": "Farmer's Carry", "pr": "100 lb DBs x 150 steps", "date": "2026-03-09"}
+    ],
+    "Core": [
+      {"exercise": "Plank", "pr": "3:15", "date": "2026-03-02"}
+    ],
+    "Sprint / Baseline": [
+      {"exercise": "Behind-the-Neck Hyperextensions", "pr": "50 x 8", "date": "2026-03-09", "note": "baseline"}
+    ]
+  }
+}
